@@ -1,2 +1,2 @@
 # wxr-hcihci
-HCI
+Human Computer Interaction
